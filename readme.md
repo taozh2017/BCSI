@@ -9,7 +9,7 @@ This repository is the official implementation of the paper: **"Bidirectional Ch
 
 ## 📖 Framework
 
-![BCSI Framework](assets/framework.png)
+![BCSI Framework](assets/Model.png)
 
 We propose **BCSI**, a novel framework that introduces:
 1.  **Weak-to-Strong Consistency:** Utilizing Semantic-Spatial Perturbation (SSP) to mitigate error propagation.
