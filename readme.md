@@ -9,6 +9,8 @@ This repository is the official implementation of the paper: **"Bidirectional Ch
 
 We provide the pre-processed [**BraTS 2019**](https://drive.google.com/file/d/1fqev6O8Urq2pY14fIFyoiFEROj3HDK_p/view?usp=sharing) and [**LA**](https://drive.google.com/file/d/12eP67jcmFglg9oUCTn4lIcuQpGkNRtaT/view?usp=drive_link) datasets used in our paper.
 
+The **Pancreas-CT** dataset can be obtained from this GitHub repository: [Text-SemiSeg](https://github.com/taozh2017/Text-SemiSeg).
+
 ## Training
 To train the BCSI framework with different labeled data ratios (e.g., 10% labels), use the following commands:
 
@@ -33,5 +35,11 @@ We propose **BCSI**, a novel framework that introduces:
 3.  **Bidirectional Interaction (BCI):** facilitating deep feature exchange between data streams.
 
 Experimental results on **LA, Pancreas-CT, and BraTS-2019** datasets demonstrate that BCSI significantly outperforms state-of-the-art methods.
+
+## Acknowledgements
+Our code is based on [SSL4MIS](https://github.com/HiLab-git/SSL4MIS).
+
+## Questions
+If you have any questions, welcome contact me at 'taozhou.dreams@gmail.com'
 
 
