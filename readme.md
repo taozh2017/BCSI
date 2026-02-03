@@ -5,8 +5,6 @@
 
 This repository is the official implementation of the paper: **"Bidirectional Channel-selective Semantic Interaction (BCSI) framework for semi-supervised medical image segmentation"**, accepted by **AAAI 2026**.
 
-**[Coming Soon]** ⏳ We are organizing the code and checkpoints. The full implementation will be released shortly (expected within this month). Please star ⭐ this repo to stay updated!
-
 ## 📖 Framework
 
 ![BCSI Framework](assets/Model.png)
