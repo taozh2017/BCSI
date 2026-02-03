@@ -7,7 +7,7 @@ This repository is the official implementation of the paper: **"Bidirectional Ch
 
 ## 📂 Dataset Preprocessing
 
-We provide the pre-processed [**BraTS 2019**](https://drive.google.com/file/d/1fqev6O8Urq2pY14fIFyoiFEROj3HDK_p/view?usp=sharing) dataset used in our paper.
+We provide the pre-processed [**BraTS 2019**](https://drive.google.com/file/d/1fqev6O8Urq2pY14fIFyoiFEROj3HDK_p/view?usp=sharing) and [**LA**](https://drive.google.com/file/d/12eP67jcmFglg9oUCTn4lIcuQpGkNRtaT/view?usp=drive_link) datasets used in our paper.
 
 ## Training
 To train the BCSI framework with different labeled data ratios (e.g., 10% labels), use the following commands:
